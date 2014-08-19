@@ -2,7 +2,7 @@ CleaningDataCourseProject
 =========================
 
 Course project for Cleaning Data Coursera course
-1. Read up all the training and test features
+1. Read up all the training and test features 
 2. Merge the train and test data.frames created in 1
 3. Do the same with the activity labels. Important to merge in the same order
 4. Read up the various features
